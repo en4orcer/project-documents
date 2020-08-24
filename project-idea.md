@@ -29,3 +29,11 @@ These are the 5 main ideas for our project.
 
 Most projects fade away because they usually lack the money to run the needed resources for that said project. I have devised a plan to create a *premine* (everybody hates that word but we're being realistic) to help oversea our work for a number of years to support the idea of a stable income for project members and contributors. These funds will also be used to help market the project to allow more potential new users.
 
+### Specs
+> Nothing is final here.
+
+| Attribute | Value | Description |
+|-----------|-------|-------------|
+| Supply | ??? | The total supply of the Blockchain should be a high figure to support the idea of longevity. The higher supply, the more coins that can be produced overtime. |
+| Premine | ???% | The premine should only be a minor percentage of the supply but enough to sustain the project for years to come. Premine supports the project and its ideas/plans for the future. |
+| Block Reward | ??? | The Block Reward should be low in amount to counteract the high supply of the Blockchain. A Low Block Rewards means you won't be sat on *millions* of coin that barely hold value. |
